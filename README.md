@@ -180,9 +180,3 @@ GitHub: Alibrura
 - [Часть 2: Разведывательный анализ данных и отбор признаков](house_price_prediction_p2.ipynb)  
 - [Часть 3: Моделирование и оценка качества](house_price_prediction_p3.ipynb)  
 
-
-**Более подробно с расчётами и визуализациями можно ознакомиться в Jupyter Notebook:**  
-- [Часть 1: Подготовка данных](house_price_prediction_p1.ipynb)  
-- [Часть 2: Разведывательный анализ данных и отбор признаков](house_price_prediction_p2.ipynb)  
-- [Часть 3: Моделирование и оценка качества](house_price_prediction_p3.ipynb)  
-
