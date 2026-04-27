@@ -141,6 +141,7 @@ print(r.json()['prediction'])
 ---
 
 ## 📁 Структура репозитория
+**ВАЖНОЕ ПРИМЕЧАНИЕ:** данные `data` находятся в [облачном хранилище](https://drive.google.com/drive/folders/1mLhZT4mHKQ-UHQgZZkMiBDg5j7UAg--s?usp=sharing).
 ```txt
 ├── data/                     # исходные и обработанные данные
 │   ├── optuna/               # объекты связанные с подбором гиперпараметров
