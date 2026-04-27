@@ -4,8 +4,11 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-2.2.1-green)](https://pandas.pydata.org)
-[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.6.1-yellow)](https://scikit-learn.org)
-[![LightGBM](https://img.shields.io/badge/LightGBM-4.5.0-brightgreen)](https://lightgbm.readthedocs.io)
+[![NumPy](https://img.shields.io/badge/NumPy-1.26.2-blue)](https://numpy.org)
+[![Scikit-learn](https://img.shields.io/badge/scikit--learn-1.5.0-yellow)](https://scikit-learn.org)
+[![LightGBM](https://img.shields.io/badge/LightGBM-4.6.0-brightgreen)](https://lightgbm.readthedocs.io)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2.1.4-orange)](https://xgboost.readthedocs.io)
+[![CatBoost](https://img.shields.io/badge/CatBoost-1.2.10-purple)](https://catboost.ai)
 
 ---
 ## 📌 Описание проекта  
