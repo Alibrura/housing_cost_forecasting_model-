@@ -1,7 +1,5 @@
 <img width="1725" height="475" alt="image" src="https://github.com/user-attachments/assets/fd1b8b19-4ded-423f-8b74-93712f9eceb0" />
 
-### Дипломный проект по специализации Data Science (Skillfactory)
-
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)](https://jupyter.org)
 [![Pandas](https://img.shields.io/badge/pandas-2.2.1-green)](https://pandas.pydata.org)
