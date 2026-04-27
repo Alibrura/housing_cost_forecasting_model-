@@ -1,8 +1,5 @@
 <img width="1725" height="475" alt="image" src="https://github.com/user-attachments/assets/fd1b8b19-4ded-423f-8b74-93712f9eceb0" />
 
-
-
-# <center> 🏠 Прогнозирование цены недвижимости</center>
 ### Дипломный проект по специализации Data Science (Skillfactory)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
