@@ -1,4 +1,5 @@
-<img width="2420" height="408" alt="image" src="https://github.com/user-attachments/assets/030208a2-60d1-4876-b2e1-8b2c86ef138a" />
+<img width="1725" height="475" alt="image" src="https://github.com/user-attachments/assets/fd1b8b19-4ded-423f-8b74-93712f9eceb0" />
+
 
 
 # 🏠 Прогнозирование цены недвижимости
